@@ -1,0 +1,21 @@
+body{
+    background-color: hsla(180, 98%, 48%, 0.609);
+    text-align: center;
+}
+input{
+    width:100px;
+    height:30px;
+    border-radius: 10px;
+    border:none;
+}
+button{
+    width:80px;
+    height:30px;
+    border-radius: 10px;
+    margin:10px;
+    background-color: rgb(226, 217, 43);
+    border:none;
+}
+li{
+    /* margin:20px; */
+}
